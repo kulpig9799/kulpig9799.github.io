@@ -1,4 +1,4 @@
-var images = ["img/DSC01524.jpg","img/DSC01525.jpg","img/DSC01526.jpg","img/DSC01539.jpg","img/DSC01541.jpg","img/DSC01542.jpg","img/DSC01548.jpg","img/DSC01549.jpg"]
+var images = ["img/DSC01524.jpg","img/DSC01525.jpg","img/DSC01526.jpg","img/DSC01539.jpg","img/DSC01541.jpg","img/DSC01542.jpg","img/DSC01548.jpg"]
 
 for ( i = 0; i < images.length; i++ ){
   $(".slideshow-container").append(`
