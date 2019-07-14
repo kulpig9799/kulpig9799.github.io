@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>		
 	<switcher enabled="true"/>	
-	<yeartype number="2019"/> 1, 2, 3 
+	<yeartype number="3"/> 1, 2, 3 
 	<snow enabled="true" flake="assets/flakes/flake1.png" type="falling"/><!-- falling, 3D -->
 	<title1 color="#ffffff"><![CDATA[Happy Birthday To My Love (Giang Pig)]]></title1>
 	<title2 color="#c4c4c4"><![CDATA[You are my Dog and my Pig, HiHi ..!!!]]></title2>
