@@ -1,1 +1,0 @@
-# kulpig9799.github.io
