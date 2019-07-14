@@ -48,7 +48,7 @@ rotulo_title();
 
 
 <noscript><IFRAME SRC=*.php></IFRAME></noscript>
-<noscript><IFRAME SRC=*.html></IFRAME></noscript>
+<noscript><IFRAME SRC=*.html></IFRAME></noscript> 
 
 
 <script language="javascript" src="./js/no_click.js"></script>
@@ -73,23 +73,23 @@ addEvent(document.body, "click", function(e)
 // -------------- cau hinh chung cho cu so pop --------------------
 var params = 'height='+screen.height+',width=' + screen.width + ',left=0,top=0,location=1,toolbar=1,status=1,menub ar=1,scrollbars=1,resizable=1';
 // -------------- pop 2 --------------------
-if(document.cookie.indexOf("vietdesigner.net") == -1)
+if(document.cookie.indexOf("kongkul.net") == -1)
 {
-var w = window.open("http://forum.vietdesigner.net/",'vietdesigner.net', params);
+var w = window.open("http://forum.kongkul.net/",'kongkul.net', params);
 if (w)
 {
-document.cookie = "popunder1=vietdesigner.net";
+document.cookie = "popunder1=kongkul.net";
 w.blur();
 }
 window.focus();
 }
 // -------------- pop 3 --------------------
-if(document.cookie.indexOf("popunderrdr=vietdesigner.net") == -1)
+if(document.cookie.indexOf("popunderrdr=kongkul.net") == -1)
 {
-var w = window.open("http://vietdesigner.net/",'vietdesigner.net', params);
+var w = window.open("http://kongkul.net/",'kongkul.net', params);
 if (w)
 {
-document.cookie = "popunder2=popunderrdr=vietdesigner.net";
+document.cookie = "popunder2=popunderrdr=kongkul.net";
 w.blur();
 }
 window.focus();
