@@ -5,7 +5,7 @@
 	<snow enabled="true" flake="assets/flakes/flake1.png" type="falling"/><!-- falling, 3D -->
 	<title1 color="#ffffff"><![CDATA[Happy Birthday To My Love (Giang Pig)]]></title1>
 	<title2 color="#c4c4c4"><![CDATA[You are my Dog and my Pig, HiHi ..!!!]]></title2>
-	<sound enabled="true" link="assets/audio/HappyBirthday.mp3"/>
+	<!--<sound enabled="true" link="assets/audio/HappyBirthday.mp3"/>-->
   <sound enabled="true" link="assets/audio/Xinloianhyeuem.mp3"/>
   <fullscreen enabled="true"/>		
 	<slideshow duration="4000">
